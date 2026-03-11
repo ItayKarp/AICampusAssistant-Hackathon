@@ -1,0 +1,2 @@
+from .announcements_repository import SqlAlchemyAnnouncementsRepo
+from .exams_repository import SqlAlchemyExamsRepo

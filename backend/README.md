@@ -161,7 +161,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ItayKarp/AICampusAssistant-Hackathon.git
 cd CampusAssistantAI
 ```
 
